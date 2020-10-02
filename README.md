@@ -1,4 +1,4 @@
-# product-presentation
+# Product Presentation
 
 ## Déscription générale
 Ce template permet de présenter une idée d’application web prototypée avec https://www.figma.com. 
